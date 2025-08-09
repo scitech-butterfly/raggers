@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+langchain
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
+groq
+requests
+
